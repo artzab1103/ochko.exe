@@ -8,7 +8,7 @@
   </p>
 </div>
 
-# Mini-history about this project
+# History about this project
 3-5 month ago i for a joke started making a virus, that called ochko.exe.
 
 I make GDI with Maltoolkit1.0.exe, .bat/.vbs with Notepad++, BassBoosted .wav with Audacity.
@@ -34,6 +34,8 @@ I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run la
 [Visual Studio Code](https://code.visualstudio.com): easily code and edit
 
 [C03Packet](https://github.com/Provektork): helping with this project
+
+[WinRAR](https://win-rar.com): building .exe file
 
 [Audacity](https://www.audacityteam.org): making music louder and smaller
 
