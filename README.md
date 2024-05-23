@@ -1,4 +1,15 @@
 <div align="center">
+ <a href="https://github.com/artzab1103/ochko.exe/stargazers" target="_blank">
+  <img src="https://img.shields.io/github/stars/artzab1103/ochko.exe" />
+
+ <a href="https://github.com/artzab1103/ochko.exe/forks" target="_blank">
+  <img src="https://img.shields.io/github/forks/artzab1103/ochko.exe" />
+
+ <a href="https://github.com/artzab1103/ochko.exe/watchers" target="_blank">
+  <img src="https://img.shields.io/github/watchers/artzab1103/ochko.exe" />
+ </div>
+     
+<div align="center">
     <img src="https://az69az.github.io/public_html/static/files/sfx-ico.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">ochko.exe RECODE</h3>
@@ -21,7 +32,12 @@ I ratted with C03Packet, load this virus to his computer and started it: (GDI do
 
 https://github.com/artzab1103/ochko.exe/assets/102410925/08c767b5-5c6f-483e-9274-af4b85c32d1a
 
-I fixed some things and make first release. And i wanna make full recode to release on GitHub :)
+I fixed some things and make first release, after this i lost all files cuz i get undeleteable virus.
+
+And i make full recode to release on GitHub :) and you can download it now!
+
+ <a href="https://github.com/artzab1103/ochko.exe/releases" target="_blank">
+  <img src="https://img.shields.io/badge/Releases-Download-blue?logo=github" />
 
 # How to build
 I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run launch.bat silently
