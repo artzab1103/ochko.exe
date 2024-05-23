@@ -1,0 +1,1 @@
+x=msgbox("K VASHEMU OCHKY NESETSA SMERT!!!", 0+16, "WARNING!!!!")
