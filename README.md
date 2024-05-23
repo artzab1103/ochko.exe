@@ -29,6 +29,8 @@ I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run la
 # Credits
 [BatToExe](https://github.com/Makazzz/BatToExePortable): hiding .bat consoles
 
+[SetVol](https://rlatour.com/setvol): turn on speakers on 100%
+
 [Visual Studio Code](https://code.visualstudio.com): easily code and edit
 
 [C03Packet](https://github.com/Provektork): helping with this project
