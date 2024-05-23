@@ -26,9 +26,6 @@ I fixed some things and make first release. And i wanna make full recode to rele
 # How to build
 I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run launch.bat silently
 
-# Also see
-[NJRat Pack](https://github.com/artzab1103/njrat-pack): A collab pack with some russian ratters 
-
 # Credits
 [BatToExe](https://github.com/Makazzz/BatToExePortable): hiding .bat consoles
 
@@ -37,3 +34,6 @@ I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run la
 [C03Packet](https://github.com/Provektork): helping with this project
 
 [Audacity](https://www.audacityteam.org): making music louder and smaller
+
+# Also see
+[NJRat Pack](https://github.com/artzab1103/njrat-pack): A collab pack with some russian ratters
