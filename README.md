@@ -4,7 +4,7 @@
   <h3 align="center">ochko.exe RECODE</h3>
 
   <p align="center">
-    A GDI malware with loud bad words russian music based on .bat/.py files
+    A GDI malware with loud bad words russian music. Coded on .bat/.py files
   </p>
 </div>
 
