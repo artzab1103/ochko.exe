@@ -15,7 +15,7 @@ I make GDI with Maltoolkit1.0.exe, .bat/.vbs with Notepad++, BassBoosted .wav wi
 
 I learn, how to create SFX Archive with WinRAR and i make my first harmless malware in my life.
 
-I tested on Win 7 VM, works perfectly (GDI, .bat, .vbs), and i decided send geometry dash crack + rat one person 😈
+I tested on Win 7 VM, works perfectly (GDI, .bat, .vbs), and i decided send geometry dash crack + rat one person😈 (his name is Vanya)
 
 I ratted with C03Packet, load this virus to his computer and started it: (GDI doesn't work because av issue)
 
