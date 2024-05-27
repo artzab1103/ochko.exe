@@ -22,7 +22,7 @@
 # History about this project
 3-5 month ago i for a joke started making a virus, that called ochko.exe.
 
-I make GDI with Maltoolkit1.0.exe, .bat/.vbs with Notepad++, BassBoosted .wav with Audacity.
+I make GDI with Maltoolkit 1.0, .bat/.vbs with Notepad++, BassBoosted .wav with Audacity.
 
 I learn, how to create SFX Archive with WinRAR and i make my first harmless malware in my life.
 
@@ -42,6 +42,8 @@ And i make full recode to release on GitHub :) and you can download it now!
 # How to build
 I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run launch.bat silently
 
+and Maltoolkit for building GDI
+
 # Credits
 [BatToExe](https://github.com/Makazzz/BatToExePortable): hiding .bat consoles
 
@@ -57,3 +59,5 @@ I using [WinRAR](https://win-rar.com) (SFX Archive). It extrats virus and run la
 
 # Also see
 [NJRat Pack](https://github.com/artzab1103/njrat-pack): A collab pack with some russian ratters
+
+# 1488 poshalko
